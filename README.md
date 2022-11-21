@@ -1,1 +1,1 @@
-Simple Cinema bookingsystem
+Simple Cinema booking system
